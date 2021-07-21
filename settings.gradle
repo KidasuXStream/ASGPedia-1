@@ -1,0 +1,2 @@
+rootProject.name = "ASGPedia"
+include ':app'
